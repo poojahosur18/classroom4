@@ -1,4 +1,3 @@
-package classroom4;
 
 public class BookSales {
     String salerName;
